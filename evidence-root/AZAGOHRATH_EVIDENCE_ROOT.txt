@@ -1,0 +1,65 @@
+AZAGOHRATH CRYPTOGRAPHIC EVIDENCE ROOT
+=====================================
+
+PURPOSE
+-------
+This document records cryptographic identifiers for the
+AZAGOHRATH authorship-proof repository.
+
+It is an evidence index. It does not by itself establish
+legal authorship, copyright ownership, or identity.
+
+HISTORICAL RELEASE
+------------------
+Tag:
+authorship-proof-v1.0.0
+
+Tag object:
+8ea0f8d4b83a59f20351ec15af815c4540a1f5ec
+
+Tag target:
+4f1957f8001d9ee994d0620242c46eb35a9a2220
+
+MANIFEST ANCHOR
+---------------
+Commit:
+fae0233c3ac1ab86c9ded124f47f7d364ca9ac31
+
+Manifest:
+release/AZAGOHRATH_RELEASE_MANIFEST.txt
+
+Manifest SHA-256:
+92c7668010674603dc30e81d6bcc74211159a377c6d9a07b3180c1a38c4e9af6
+
+SIGNING IDENTITY
+----------------
+ED25519 public-key fingerprint:
+SHA256:OxwBksVgPhHXfnpT6mwvSI5KeKJxmRVL9z00xqP91mY
+
+REMOTE REPOSITORY
+-----------------
+Owner:
+azagohrathalexsamuel
+
+Repository:
+azagohrath-authorship-proof
+
+GitHub commit verification:
+true
+
+GitHub verification reason:
+valid
+
+CHAIN
+-----
+Historical tag
+-> tagged commit
+-> subsequent signed commits
+-> release manifest anchor
+-> cryptographic evidence root
+
+SECURITY
+--------
+Private signing-key material is intentionally excluded.
+
+END OF EVIDENCE ROOT
