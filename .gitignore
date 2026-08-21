@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.tmp
+*~
+.env
+.env.*
+*.key
+*.pem
+id_ed25519
+azagohrath_signing_ed25519
